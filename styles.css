@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+canvas {
+  border: 1px solid black;
+}
+
+button {
+  margin: 5px;
+  padding: 5px;
+}
+
+#num-drawings {
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+#top-drawings {
+  margin-top: 10px;
+  padding-left: 20px;
+}
+
+#top-drawings li {
+  margin-bottom: 5px;
+}
